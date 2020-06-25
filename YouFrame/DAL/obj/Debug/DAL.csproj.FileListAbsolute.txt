@@ -1,0 +1,9 @@
+C:\Users\Shital\source\repos\YouFrame\DAL\bin\Debug\DAL.dll
+C:\Users\Shital\source\repos\YouFrame\DAL\bin\Debug\DAL.pdb
+C:\Users\Shital\source\repos\YouFrame\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Shital\source\repos\YouFrame\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shital\source\repos\YouFrame\DAL\obj\Debug\DAL.dll
+C:\Users\Shital\source\repos\YouFrame\DAL\obj\Debug\DAL.pdb
+C:\Users\Shital\source\repos\YouFrame\DAL\bin\Debug\BOL.dll
+C:\Users\Shital\source\repos\YouFrame\DAL\bin\Debug\BOL.pdb
+C:\Users\Shital\source\repos\YouFrame\DAL\obj\Debug\DAL.csproj.CopyComplete

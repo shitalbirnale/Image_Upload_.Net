@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BOL.Imagedb>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Upload Image </h2>
+
+
+
+<div>
+
+    @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="image" />
+        <input type="submit" value="Upload Image" />
+    }
+</div>
+
+<div>
+
+    @{
+        var i = 1;
+        foreach (BOL.Imagedb s in Model)
+        {
+            if (i % 4 == 0) { i = 1; <br />}
+
+            <img src="~/Images/@s.image" height="20%" width="17%" />
+
+            i++;
+
+
+
+        }
+    }
+
+
+</div>
+
+
+
